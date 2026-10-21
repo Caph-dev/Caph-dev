@@ -1,6 +1,6 @@
 <h3 align="center">Caph</h3>
 
-<h2 align="center"><i>&gt; I am passionate 🔥 about AI agents — the unglamorous tooling that survives hour three, not just the first prompt.<br>&gt; In practice: model routing, context budgets, progressive disclosure, and the occasional macOS utility.</i></h2>
+<h2 align="center"><i>&gt; I am passionate 🔥 about AI agents — the unglamorous tooling that<br>survives hour three, not just the first prompt.<br>&gt; In practice: model routing, context budgets, progressive disclosure,<br>and the occasional macOS utility.</i></h2>
 
 <div align="center">
 
