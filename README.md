@@ -2,12 +2,7 @@
   <tr>
     <td width="50%" valign="middle">
       <h3>Caph</h3>
-      <p>
-        <i><samp>&gt; I am passionate 🔥 about AI agents — routing, context, and the unglamorous parts that keep a long session coherent.</samp></i>
-      </p>
-      <p>
-        <i><samp>&gt; I ship small, specific things: skills, routers, and macOS utilities.</samp></i>
-      </p>
+      <h3><big><i>&gt; I am passionate 🔥 about AI agents — routing, context, and the unglamorous parts that keep a long session coherent.</i></big></h3>
     </td>
     <td width="50%" valign="middle" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Caph-dev&show_icons=true&theme=synthwave&card_width=420" width="100%" alt="Caph's GitHub stats" />
