@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <h3 align="center">Caph</h3>
+      <h3>Caph</h3>
       <p>
         <i><samp>&gt; I am passionate 🔥 about AI agents — routing, context, and the unglamorous parts that keep a long session coherent.</samp></i>
       </p>
