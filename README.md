@@ -1,6 +1,11 @@
 <h1>Caph</h1>
 
-<h2><i>&gt; I am passionate 🔥 about AI agents — the unglamorous tooling that<br>survives hour three, not just the first prompt.<br><br>&gt; In practice: model routing, context budgets, and progressive disclosure —<br>the parts that separate useful from merely impressive.</i></h2>
+<h2>
+<p><i>&gt; I am passionate 🔥 about AI agents — the unglamorous tooling that</i></p>
+<p><i>survives hour three, not just the first prompt.</i></p>
+<p><i>&gt; In practice: model routing, context budgets, and progressive disclosure —</i></p>
+<p><i>the parts that separate useful from merely impressive.</i></p>
+</h2>
 
 <div align="center">
 
