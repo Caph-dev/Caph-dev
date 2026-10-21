@@ -1,11 +1,8 @@
-<h1>Caph</h1>
-
-<h2>
-<p><i>&gt; I am passionate 🔥 about AI agents — the unglamorous tooling that</i></p>
-<p><i>survives hour three, not just the first prompt.</i></p>
-<p><i>&gt; In practice: model routing, context budgets, and progressive disclosure —</i></p>
-<p><i>the parts that separate useful from merely impressive.</i></p>
-</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caph-dev/Caph-dev/main/assets/intro-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caph-dev/Caph-dev/main/assets/intro-light.svg" />
+  <img alt="Caph — I am passionate about AI agents: the unglamorous tooling that survives hour three, not just the first prompt. In practice: model routing, context budgets, and progressive disclosure." src="https://raw.githubusercontent.com/Caph-dev/Caph-dev/main/assets/intro-light.svg" width="100%" />
+</picture>
 
 <div align="center">
 
