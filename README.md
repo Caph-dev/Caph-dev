@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td width="50%" valign="middle" align="center">
+    <td width="50%" valign="middle">
       <h3 align="center">Caph</h3>
-      <p align="center">
+      <p>
         <i><samp>&gt; I am passionate 🔥 about AI agents — routing, context, and the unglamorous parts that keep a long session coherent.</samp></i>
       </p>
-      <p align="center">
+      <p>
         <i><samp>&gt; I ship small, specific things: skills, routers, and macOS utilities.</samp></i>
       </p>
     </td>
