@@ -21,6 +21,12 @@ jobs:
             dist/github-snake.svg?palette=github-light&color_snake=#0969DA
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#6EA8FE
 
+      # snk runs as root in Docker and leaves dist/ owned by root (mode 0755).
+      # The stats steps run as the runner user and fail with EACCES unless
+      # ownership is handed back. A missing dist/ still fails this step.
+      - name: Restore dist ownership
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       # github-readme-stats.vercel.app is paused (DEPLOYMENT_PAUSED). Generate
       # static cards here so the profile README does not depend on a public
       # Vercel instance at page-view time.
